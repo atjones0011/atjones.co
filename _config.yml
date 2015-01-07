@@ -1,0 +1,12 @@
+# Site settings
+title: Andrew Jones
+email: atjones0011@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A software engineer working on data intesive projects for startups in New York City.
+baseurl: ""
+url: "http://atjones.co"
+twitter_username: atjones0011
+github_username:  atjones0011
+
+# Build settings
+markdown: kramdown
